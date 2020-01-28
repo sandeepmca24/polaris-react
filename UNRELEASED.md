@@ -20,6 +20,7 @@
 ### Development workflow
 
 - Added first implementation of custom property validation ([#2616](https://github.com/Shopify/polaris-react/pull/2616))
+- Added Storybook Knobs for customizing theme ([#2674](https://github.com/Shopify/polaris-react/pull/2674))
 
 ### Dependency upgrades
 
